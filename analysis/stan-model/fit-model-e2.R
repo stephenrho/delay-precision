@@ -2,7 +2,7 @@
 ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### 
 # Analysis code for
 # Age differences in the precision of memory at short and long delays
-# Rhodes, Abbene, Meirehofer, & Naveh-Benjamin
+# Rhodes, Abbene, Meierhofer, & Naveh-Benjamin
 # 
 # Fit the mixture model described in the manuscript
 # to the recall data from younger and older adults

@@ -2,7 +2,7 @@
 ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### 
 # Analysis code for
 # Age differences in the precision of memory at short and long delays
-# Rhodes, Abbene, Meirehofer, & Naveh-Benjamin
+# Rhodes, Abbene, Meierhofer, & Naveh-Benjamin
 # 
 # Exploratory analysis using the CatContModel package of
 # Hardman 2017 to assess evidence of categorical responding

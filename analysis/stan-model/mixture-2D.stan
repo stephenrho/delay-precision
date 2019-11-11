@@ -1,6 +1,6 @@
 // Mixture model for
 // Age differences in the precision of memory at short and long delays
-// Rhodes, Abbene, Meirehofer, & Naveh-Benjamin
+// Rhodes, Abbene, Meierhofer, & Naveh-Benjamin
 
 data {
   int<lower=0> N;             // N observations

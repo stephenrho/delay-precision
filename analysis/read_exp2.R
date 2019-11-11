@@ -2,7 +2,7 @@
 ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### 
 # Analysis code for
 # Age differences in the precision of memory at short and long delays
-# Rhodes, Abbene, Meirehofer, & Naveh-Benjamin
+# Rhodes, Abbene, Meierhofer, & Naveh-Benjamin
 # 
 # Code to read in the data from Experiment 2
 ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### 

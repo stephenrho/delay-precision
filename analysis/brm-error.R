@@ -2,7 +2,7 @@
 ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### 
 # Analysis code for
 # Age differences in the precision of memory at short and long delays
-# Rhodes, Abbene, Meirehofer, & Naveh-Benjamin
+# Rhodes, Abbene, Meierhofer, & Naveh-Benjamin
 # 
 # Log normal linear mixed effects analyses using brms &
 # analysis of confidence ratings with cumulative model
