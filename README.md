@@ -2,6 +2,8 @@
 
 For Rhodes, Abbene, Meierhofer, & Naveh-Benjamin: "Age differences in the precision of memory at short and long delays"
 
+Pre-print here: https://psyarxiv.com/zucr3
+
 ## task
 
 Contains psychopy scripts for the two experiments along with the images used (from Brady et al., 2008). Note that the way in which data was written for each trial changed between experiments 1 and 2, so the files for the second experiment also include study events.
